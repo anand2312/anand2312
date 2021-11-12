@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Backend developer; I know my way around Python web frameworks (Django, Flask, FastAPI, Sanic), both relational and non-relational databases.
+Backend developer; I know my way around Python web frameworks (Django, Flask, FastAPI, Sanic), relational and non-relational databases and more.
 
 Currently working on:
 - [supa-fastapi](https://anand2312.tech/r/supa-fastapi): A library to easily integrate [Supabase](https://supabase.io) with your [FastAPI](https://tiangolo.fastapi.com) projects!

@@ -3,11 +3,11 @@
 Backend developer; I know my way around Python web frameworks (Django, Flask, FastAPI, Sanic), relational and non-relational databases and more.
 
 Currently working on:
-- [supa-fastapi](https://anand2312.tech/r/supa-fastapi): A library to easily integrate [Supabase](https://supabase.io) with your [FastAPI](https://tiangolo.fastapi.com) projects!
+- [diary](https://anand2312.tech/r/diary): A simple diary web app, built with Supabase and Sveltekit
 
 Currently learning:
 - Rust
-- C#
+- Svelte and Frontend Dev in general
 
 [![Anand's github stats](https://github-readme-stats.vercel.app/api?username=anand2312&show_icons=true&theme=synthwave&count_private=true)](https://anand2312.tech)
 

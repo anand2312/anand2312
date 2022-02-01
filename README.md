@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Backend developer; I know my way around Python web frameworks (Django, Flask, FastAPI, Sanic), relational and non-relational databases and more.
+I am a maintainer of the [Supabase Python client libraries](https://github.com/supabase-community)
 
 Currently working on:
 - [diary](https://anand2312.tech/r/diary): A simple diary web app, built with Supabase and Sveltekit

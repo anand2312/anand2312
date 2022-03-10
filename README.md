@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Backend developer; I know my way around Python web frameworks (Django, Flask, FastAPI, Sanic), relational and non-relational databases and more.
-I am a maintainer of the [Supabase Python client libraries](https://github.com/supabase-community)
 
 Currently working on:
 - [markdown-parser](https://anand2312.tech/r/markdown-parser): A toy markdown parser written in Rust.

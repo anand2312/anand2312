@@ -1,15 +1,13 @@
-### Hi there 👋
+### Hello!
 
-Backend developer; I know my way around Python web frameworks (Django, Flask, FastAPI, Sanic), relational and non-relational databases and more.
+I write code to make my stupid ideas come to life
 
 Currently working on:
 - [markdown-parser](https://anand2312.tech/r/markdown-parser): A toy markdown parser written in Rust.
 
 Currently learning:
 - Rust
-- Svelte and Frontend Dev in general
-
-[![Anand's github stats](https://github-readme-stats.vercel.app/api?username=anand2312&show_icons=true&theme=synthwave&count_private=true)](https://anand2312.tech)
+- Testing frameworks and paradigms
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand2312&layout=compact&theme=synthwave&lang_count=6)](https://anand2312.tech)
 

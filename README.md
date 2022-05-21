@@ -3,8 +3,7 @@
 I write code to make my stupid ideas come to life
 
 Currently working on:
-- [markdown-parser](https://anand2312.tech/r/markdown-parser): A toy markdown parser written in Rust.
-
+- [Google Summer of Code '22](https://summerofcode.withgoogle.com/programs/2022/projects/XpcHDKv8)
 Currently learning:
 - Rust
 - Testing frameworks and paradigms

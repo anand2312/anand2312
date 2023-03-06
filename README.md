@@ -3,8 +3,8 @@
 I write code to make my stupid ideas come to life
 
 Currently learning:
-- Rust
-- Testing frameworks and paradigms
+- Algorithms
+- Emulation and Computer Organization
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand2312&layout=compact&theme=synthwave&lang_count=6)](https://anand2312.tech)
 

@@ -3,7 +3,7 @@ I'm Anand, an undergraduate computer science student from India.
 
 Reach me on:
 
-- discord: anand#8837
+- discord: @anand2312
 - email: anand2312@proton.me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand2312&layout=compact&theme=synthwave&lang_count=6)](https://anand2312.xyz)

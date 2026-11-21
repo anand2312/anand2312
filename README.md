@@ -1,6 +1,3 @@
-# Heyo!
-I'm Anand, an undergraduate computer science student from India.
-
 Reach me on:
 
 - discord: @anand2312
